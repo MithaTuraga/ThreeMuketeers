@@ -66,3 +66,10 @@ board just like in Assignment 1 (”X” = Musketeer, ”O” = Guard, ” ” =
 
 
 
+NOTES 
+--------------------------------------------------------------
+There were three aspects to this project,
+
+1) Version 1 - This implementation focuses on using OOP principles to develop and understand basic logic. 
+2) Version 2 - Once game logic was implemented, a GUI version was implemented to have the game up and running
+3) Version 3 - This implementation focused on maintaining and developing the code given user stories and project requirements, the focus of this version was to add in new features using SOLID design principles under an agile/scrum development process. 

@@ -58,9 +58,11 @@ make sure the move is valid for the piece type that is moving.
 GETTING STARTED
 ---------------------------------------------------------------
 
-**Project Link: **
-
+**Project Link:** https://github.com/MithaTuraga/ThreeMusketeers.git
 
 **Important:** The main function in App.java runs the game and starts the GUI. Boards are located in the boards directory
 and boards are saved as .txt files with the current piece turn type on the first line followed by the 5 by 5
 board just like in Assignment 1 (”X” = Musketeer, ”O” = Guard, ” ” = Empty cell)
+
+
+
